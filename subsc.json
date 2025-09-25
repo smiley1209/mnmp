@@ -1,14 +1,6 @@
 {
   "scripts": [
     {
-      "id": "66d20e43",
-      "status": "active",
-      "countdown_start_time": "2025-09-12T16:32:10.690551",
-      "days_subscribe": 12,
-      "countdown_paused": false,
-      "plan": "Premium"
-    },
-    {
       "id": "707c9a37",
       "android_id": "ProQiqtDMAhREUjfsynDmEGxiKMCuTNOfTJ",
       "status": "active",
