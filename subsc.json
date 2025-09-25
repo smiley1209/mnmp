@@ -1,5 +1,5 @@
 {
-  "scripts":[
+  "scripts": [
     {
       "id": "66d20e43",
       "status": "active",
@@ -7,6 +7,15 @@
       "days_subscribe": 12,
       "countdown_paused": false,
       "plan": "Premium"
+    },
+    {
+      "id": "707c9a37",
+      "android_id": "ProQiqtDMAhREUjfsynDmEGxiKMCuTNOfTJ",
+      "status": "active",
+      "countdown_start_time": "2025-09-25T13:56:23.685872",
+      "days_subscribe": 15,
+      "countdown_paused": false,
+      "plan": "VIP"
     }
   ],
   "references": {},
