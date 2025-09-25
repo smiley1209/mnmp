@@ -1,0 +1,14 @@
+{
+  "scripts":[
+    {
+      "id": "66d20e43",
+      "status": "active",
+      "countdown_start_time": "2025-09-12T16:32:10.690551",
+      "days_subscribe": 12,
+      "countdown_paused": false,
+      "plan": "Premium"
+    }
+  ],
+  "references": {},
+  "announcement": "Bonjour tout les mondes"
+}
