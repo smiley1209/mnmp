@@ -44,6 +44,15 @@
       "days_subscribe": 7,
       "countdown_paused": false,
       "plan": "VIP"
+    },
+    {
+      "id": "53224baa",
+      "android_id": "PropqgvsdbIOmvTqcxocdBngsqTEtpQTKTJ",
+      "status": "active",
+      "countdown_start_time": "2025-10-16T19:54:30.983919",
+      "days_subscribe": 7,
+      "countdown_paused": false,
+      "plan": "Basic"
     }
   ],
   "references": {},
